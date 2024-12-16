@@ -6,7 +6,7 @@
 ---
 
 ## About Me  
-I’m Rohit Arun, a technology enthusiast with hands-on experience in data science and software engineering. Over the past few years, I have developed robust solutions for organizations like Electric Power Research Institute and the University of North Carolina System, focusing on automation, AI, and application development.
+My name is Rohit Arun, a technology enthusiast with hands-on experience in data science and software engineering. Over the past few years, I have developed robust solutions for organizations like Electric Power Research Institute and the University of North Carolina System, focusing on automation, AI, and application development.
 
 From building predictive models and generative AI tools to deploying enterprise-level applications, my work is driven by a passion for innovation and efficiency. I enjoy tackling challenging problems, developing scalable solutions, and exploring emerging technologies.
 
