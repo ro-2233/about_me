@@ -1,4 +1,4 @@
-# Rohit Arun
+# Ro
 👨‍💻 Aspiring Data Scientist | Software Engineer
 🎓 B.S. in Computer Science and Business Administration from NC State University (Graduated December 2024)  
 🌟 4x Dean’s List Honoree | Passionate for technology, AI, and automation  
