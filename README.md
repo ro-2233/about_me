@@ -39,7 +39,6 @@ Exposed web application vulnerabilities by demonstrating secure scraping and tic
 ---
 
 ## Contact  
-📧 Email: [29rohitarun@gmail.com](mailto:29rohitarun@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/rohit-arun](https://linkedin.com/in/rohit-arun)  
+💼 LinkedIn: [linkedin.com/in/rooo](https://linkedin.com/in/rooo)  
 
 Let’s collaborate and create something impactful!
